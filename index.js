@@ -30,17 +30,17 @@ $(function() {
 
         let img = $(".click");
 
-        if (img.attr("src") === "./public/images/navbarmenu.png") {
-            img.attr("src", "./public/images/close.png");
+        if (img.attr("src") === "../public/images/navbarmenu.png") {
+            img.attr("src", "../public/images/close.png");
         } else {
-            img.attr("src", "./public/images/navbarmenu.png"); 
+            img.attr("src", "../public/images/navbarmenu.png"); 
         }
     });//navbar
 
     $(document).click(function(event) {
         if (!$(event.target).closest(".click, .for-mobile").length && $(window).width() < 899) {
             $(".for-mobile, .nav-bar-img").hide();
-            $(".click").attr("src", "./public/images/navbarmenu.png");
+            $(".click").attr("src", "../public/images/navbarmenu.png");
         }
     });//navbar close
 });
