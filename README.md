@@ -22,7 +22,7 @@ Hi, I'm Nika Full Stack Developer. My main priorities are accuracy, understandab
    !!!I hosted it for free, so there may be a long delay when it is turned on!!!
 
 ### 1. [Blog Website](https://github.com/NikaEbraLidze/Blog-Website)  
-   - 🔗 **Demo:** [Live](hhttps://blog-website-b5ob.onrender.com/)  
+   - 🔗 **Demo:** [Live](https://blog-website-b5ob.onrender.com/)  
    !!!I hosted it for free, so there may be a long delay when it is turned on!!!
 
 ### 3. [Rock-Paper-Scissors Game](https://github.com/NikaEbraLidze/Rock-Paper-Scissors)
