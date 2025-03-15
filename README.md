@@ -11,7 +11,7 @@ Hi, I'm Nika Full Stack Developer. My main priorities are accuracy, understandab
 🔧 Teck stack:
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
-- **Other:** REST APIs, Git, npm
+- **Other:** REST APIs, Git, npm, SQL, PostgreSQL, C++
 
 !!!I always study new technologies, at now I working on Databases (SQL and postagreSQL) and React.js!!!
 
@@ -21,7 +21,7 @@ Hi, I'm Nika Full Stack Developer. My main priorities are accuracy, understandab
    - 🔗 **Demo:** [Live](https://math-website-zt9d.onrender.com/)  
    !!!I hosted it for free, so there may be a long delay when it is turned on!!!
 
-### 1. [Blog Website](https://github.com/NikaEbraLidze/Blog-Website)  
+### 2. [Blog Website](https://github.com/NikaEbraLidze/Blog-Website)  
    - 🔗 **Demo:** [Live](https://blog-website-b5ob.onrender.com/)  
    !!!I hosted it for free, so there may be a long delay when it is turned on!!!
 
